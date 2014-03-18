@@ -19,6 +19,9 @@ CIS505
   - a
 
 ####Stravation####
+- Algorithms that take into account starvation
+- “Fair” schedules
+- Random system behavior that perturbs “bad” cycles
 
 
 ## Abstraction ##
