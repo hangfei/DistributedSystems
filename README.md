@@ -9,4 +9,5 @@ CIS505
 Race Condition:  
   - Execution result depend on the interleaving of two programs
   - 
-Race Condition:  
+
+Synchronization:  
