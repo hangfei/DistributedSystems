@@ -28,11 +28,15 @@ CIS505
   - Avoidance
 
 
-
 ####Stravation####
 - Algorithms that take into account starvation
 - “Fair” schedules
 - Random system behavior that perturbs “bad” cycles
+
+####Abstract Problems####
+- Dining Philosopher
+- Readers and Writers
+- Sleeping Barber
 
 
 ##Abstraction##
