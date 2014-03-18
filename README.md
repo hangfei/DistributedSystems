@@ -18,6 +18,10 @@ CIS505
 -Approach  
   - a
 
+####Deadlock####
+- Ignore (Ostrich Algorithm)
+- Prevention
+- 
 ####Stravation####
 - Algorithms that take into account starvation
 - “Fair” schedules
