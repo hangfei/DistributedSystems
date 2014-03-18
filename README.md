@@ -13,7 +13,10 @@ Race Condition:
 Synchronization:  
 
 
-Mutual Exclusion
+
+Mutual Exclusion  
+-Approach  
+  - a
 
 ## Abstraction ##
 ###Top###
