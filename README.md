@@ -18,6 +18,8 @@ Mutual Exclusion
 -Approach  
   - a
 
+_Stravation_
+
 ## Abstraction ##
 ###Top###
 ###Bottom###
