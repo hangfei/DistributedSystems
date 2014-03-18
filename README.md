@@ -19,10 +19,13 @@ CIS505
   - a
 
 ####Deadlock####
-- Ignore (Ostrich Algorithm)
-- Prevention
-- Detection
-- Avoidance
+- Deadlock Theory
+  - The four preconditions for deadlock
+- Deadlock Appraoch
+  - Ignore (Ostrich Algorithm)
+  - Prevention
+  - Detection
+  - Avoidance
 
 
 
