@@ -21,14 +21,18 @@ CIS505
 ####Deadlock####
 - Ignore (Ostrich Algorithm)
 - Prevention
-- 
+- Detection
+- Avoidance
+
+
+
 ####Stravation####
 - Algorithms that take into account starvation
 - “Fair” schedules
 - Random system behavior that perturbs “bad” cycles
 
 
-## Abstraction ##
+##Abstraction##
 ###Top###
 ###Bottom###
 ###Middle###
