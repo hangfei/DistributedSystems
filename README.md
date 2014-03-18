@@ -6,19 +6,19 @@ CIS505
 
 ## Process and Threads##
 
-####Race Condition####  
+#### Race Condition ####
   - Execution result depend on the interleaving of two programs
   - 
 
-####Synchronization####  
+####Synchronization####
 
 
 
-####Mutual Exclusion#### 
+####Mutual Exclusion####
 -Approach  
   - a
 
-####Stravation####  
+####Stravation####
 
 
 ## Abstraction ##
