@@ -1,4 +1,4 @@
-DistributedSystems
+Distributed Systems
 ==================
 
 CIS505
