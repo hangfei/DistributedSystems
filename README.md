@@ -4,9 +4,9 @@ Distributed Systems
 CIS505
 
 
-## Process and Threads##
+## Processes and Threads##
 
-#### Race Condition ####
+####Race Condition####
   - Execution result depend on the interleaving of two programs
   - 
 
@@ -15,8 +15,17 @@ CIS505
 
 
 ####Mutual Exclusion####
--Approach  
-  - a
+
+- Guard Critical Section
+  - Possible Implementations  
+    - Turning Off Interrupts
+    - Use shared variables
+    - Use the OS
+  - Requirements
+    - Safety
+    - Generality
+    - Deadlock Freedom
+    - Starvation Freedom
 
 ####Deadlock####
 - Deadlock Theory
