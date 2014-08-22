@@ -21,10 +21,11 @@ RMSE: 0.89
 
 
 ####Supporting Package:
-- Libnear(http://www.csie.ntu.edu.tw/~cjlin/liblinear/)
+
 
 ##Installation instructions 
-Matlab, and related packages
+- Run under linux with pthread package.
+- Network required.
 
 
 ##Where to get help
@@ -36,7 +37,7 @@ TBD
 TBD
 
 ##Contributor list
-Hangfei Lin, Di Mu, Sanjay Paul
+Bofei Wang, Hangfei Lin, Di Wu
 
 ##Credits, Inspiration, Alternatives
 
