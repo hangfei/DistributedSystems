@@ -9,15 +9,12 @@ A chat room system. Functions including setting up chat room, join the chat room
 - Enabled restaurants to improve their services via the feedback of low rating review
 
 ##Project Architectrue
-(For detailed instructions, please check README, not README.md)  
-We have tried multiple methods to pushing the edges of our results. The optimal one(with best accuracy and best speed) is in the init_model.m and make_final_prediction.m file(You could try to run script_test.m to test).  
-For other models we have develop, please check the README file.  
-Data  
-The data is in the data package, including raw data and some other processed data.
+- Leader Module
+- Client Module
+- Leader Election Module
+- Sequencer
 
 ####Results:
-RMSE: 0.89
-(Off by at most half a star of the actual result for a review.)
 
 
 ####Supporting Package:
@@ -46,6 +43,6 @@ Bofei Wang, Hangfei Lin, Di Wu
 - - - -
 ####Infographics for key words of high rating and low rating.
 Credit: Di Mu
-![picture alt](https://raw.githubusercontent.com/hangfei/MachienLearning/master/Infograph_good.jpg "Title is optional")
+![picture alt](https://github.com/hangfei/Software-Systems/blob/master/Project/image/cis505_FSM.jpg "Title is optional")
 
-![picture alt](https://raw.githubusercontent.com/hangfei/MachienLearning/master/Infograph_bad.jpg "Title is optional")
+![picture alt](https://github.com/hangfei/Software-Systems/blob/master/Project/image/ui.png "Title is optional")
