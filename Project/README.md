@@ -41,8 +41,9 @@ Bofei Wang, Hangfei Lin, Di Wu
 
 
 - - - -
-####Infographics for key words of high rating and low rating.
-Credit: Di Mu
+####Illustrations
+Finite State Machine of Chat Room System
 ![picture alt](https://github.com/hangfei/Software-Systems/blob/master/Project/image/cis505_FSM.jpg "Title is optional")
 
+User Interface
 ![picture alt](https://github.com/hangfei/Software-Systems/blob/master/Project/image/ui.png "Title is optional")
