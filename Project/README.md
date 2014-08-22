@@ -3,10 +3,10 @@ A Chat Room System in a Distributed Environment
 
 ##Description
 A chat room system. Functions including setting up chat room, join the chat room, and send and receive message. The chat room is a centralized system with leader election.
-- Processed the raw data, including information retrieval, feature selection, data rescaling, bigrams
-- Implemented and combined various models, including PCA/SVD, SVM, Logistic Regression
-- Visualized sentiment analysis results
-- Enabled restaurants to improve their services via the feedback of low rating review
+- Developed a message handling and coordination module as the basis for the chatting system
+- Implemented an ordered message delivery module with sequencer on top of UDP protocol(of unordered delivery characteristic)
+- Implemented leader election using Bully Algorithm in case of leader failure
+- Fault Tolerance
 
 ##Project Architectrue
 - Leader Module
